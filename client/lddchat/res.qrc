@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/talk.png</file>
+        <file>res/YANG.png</file>
+    </qresource>
+</RCC>
